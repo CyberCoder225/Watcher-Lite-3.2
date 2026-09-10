@@ -1,7 +1,5 @@
 <div align="center">
 
-![Watcher Pro Banner](https://cdn.phototourl.com/free/2026-09-10-5ac17831-99a8-40c2-a460-fd1b66eb9ae1.jpg)
-
 # 🛡️ Watcher Pro
 
 ### Network Security Suite
@@ -9,6 +7,9 @@
 **In partnership with World of Technology**
 
 `Version 3.2` · `Build 30` · `Android` · `Lite / Pro`
+
+![Watcher Pro Banner](https://cdn.phototourl.com/free/2026-09-10-5ac17831-99a8-40c2-a460-fd1b66eb9ae1.jpg)
+
 
 </div>
 
@@ -52,27 +53,9 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Platform:** Android (built with Sketchware Pro)
-- **Language:** Java
-- **UI:** Plain native Android views, custom drawable system, light/dark theme with blue accent (`#2563EB`)
-- **Architecture:** Multi-threaded scanning (parallel `ExecutorService`), DoH fallback resolution, OSINT-style aggregation for host/domain lookups
-
 ---
 
-## 🚀 Status
-
-| | |
-|---|---|
-| **Tier** | Lite / Pro |
-| **Network** | Online — Ready |
-| **Total Users** | 28 |
-| **Active Sessions** | Unlimited (Pro) |
-
----
-
-## 👥 Team & Credits
+## 👥 Team
 
 | Role | Name | Link |
 |---|---|---|
