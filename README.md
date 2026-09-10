@@ -55,19 +55,6 @@
 
 ---
 
-## 👥 Team
-
-| Role | Name | Link |
-|---|---|---|
-| **Lead Dev / Owner** | Cyber Coder — *Master Developer, Coder* | [cyber-coder.hostify.co.zw](https://cyber-coder.hostify.co.zw) |
-| **Full Stack Dev** | Tcroneb Hackxs — *Hostify Owner, World of Technology* | [tcroneb.top.co.zw](https://tcroneb.top.co.zw) |
-| **Stinger Dev** | Traxxion Tech | [traxxion.eu.cc](https://traxxion.eu.cc) |
-| **Nexora MD Owner** | Boycoe | GitHub *(link tbd)* |
-
-> Built in partnership with **World of Technology**.
-
----
-
 ## 📦 Installation
 
 1. Download the latest APK release.
